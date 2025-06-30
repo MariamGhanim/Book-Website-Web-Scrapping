@@ -79,6 +79,8 @@ This project scrapes 1,000 books from 50 pages of books.toscrape.com. The data i
    - Allows users to explore price segments and download filtered data.
 
 ---
+- **Streamlit**  
+![App Screenshot](AppIMG.png)
 
 ## Getting Started
 
