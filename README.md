@@ -150,10 +150,5 @@ Open the provided local URL in your browser to access the dashboard.
 
 ---
 
-## License
 
-This project is for learning and demonstration purposes. See [LICENSE](LICENSE) for more details.
-
----
-
-*Note: The file and image listings above are based on a partial view of the repository. For the most up-to-date and complete file list, see the [GitHub repo](https://github.com/MariamGhanim/Book-Website-Web-Scrapping/tree/main/).*
+This project is for learning and demonstration purposes
